@@ -1,2 +1,2 @@
 # mycryptography
-I cryptography library I'm making for learning purposes.
+A cryptography library I'm making for learning purposes.
